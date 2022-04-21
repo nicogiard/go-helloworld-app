@@ -26,6 +26,6 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: docker.io/vdemeester/helloworld
+        image: docker.io/coaxys/helloworld
         ports:
         - containerPort: 8080
